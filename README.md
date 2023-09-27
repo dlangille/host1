@@ -16,7 +16,7 @@ At one time, the host was as described here: https://dan.langille.org/2022/12/31
 * SDD – 2x Samsung SSD 860 EVO 250GB RVT02B6Q (for the operating system) – the Sandisk SLOG was removed some time ago, I’m not sure when
 * NVMe – SAMSUNG 980 PRO SSD with Heatsink 1TB PCIe Gen 4 NVMe M.2 Internal Solid State Hard Drive, Heat Control, Max Speed, PS5 Compatible, MZ-V8P1T0CW
 
-FreeBSD installed now. I'll wipe the drives before shippping.
+FreeBSD installed now. I'll wipe the drives.
 
 I'd prefer local pickup, because shipping is so much work....
 
