@@ -19,3 +19,8 @@ At one time, the host was as described here: https://dan.langille.org/2022/12/31
 FreeBSD installed now. I'll wipe the drives before shippping.
 
 I'd prefer local pickup, because shipping is so much work....
+
+I also have these two hosts to dispose of:
+
+* https://dan.langille.org/2019/11/08/r720-3/
+* https://dan.langille.org/2022/12/31/knew-8/
