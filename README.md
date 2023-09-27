@@ -1,4 +1,4 @@
-# host1
+# Supermicro SC846E16 (20 x 3.5" drive bays)
 Information about the server I'm selling.
 
 I'm not sure if I will keep the SSDs or not.
